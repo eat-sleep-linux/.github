@@ -1,2 +1,5 @@
-# .profile
-https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization
+# .github
+
+Script collections for improve your work with any Linux
+
+For participate please send me on gbog@proton.me
